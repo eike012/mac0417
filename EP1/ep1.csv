@@ -1,37 +1,37 @@
-nome, objetos, fundo, classe, iluminacao
-1, bola-caderno-caneca, bege, bola, dia-dentro-de-casa
-2, diario-joystick-controleremoto, marrom, joystick, noite-dentro-de-casa
-3, caixadesom-tesoura-desodorante-garrafa1, branco, garrafa1, noite-fora-de-casa
-4, bola-caderno-caneca, cinza, caneca, dia-fora-de-casa
-5, bola-caderno-caneca, marrom, caneca, noite-dentro-de-casa
-6, bola-caderno-caneca, cinza, caderno, noite-fora-de-casa
-7, chaves-guardachuva-carteira-cremedental, bege, guardachuva, dia-dentro-de-casa
-8, faca-colher-papeltoalha-livro, marrom, livro, noite-dentro-de-casa
-9, prestobarba-fiodental-estojo, branco, estojo, noite-fora-de-casa
-10, caixadesom-tesoura-desodorante-garrafa1, bege, desodorante, dia-dentro-de-casa
-11, prestobarba-fiodental-estojo, bege, fiodental, dia-dentro-de-casa
-12, prestobarba-fiodental-estojo, branco, prestobarba, dia-fora-de-casa
-13, faca-colher-papeltoalha-livro, bege, colher, dia-dentro-de-casa
-14, prestobarba-fiodental-estojo, marrom, estojo, noite-dentro-de-casa
-15, caixadesom-tesoura-desodorante-garrafa1, branco, tesoura, dia-fora-de-casa
-16, caixadesom-tesoura-desodorante-garrafa1, marrom, garrafa1, noite-dentro-de-casa
-17, garrafa2-notebook-fone, branco, notebook, noite-dentro-de-casa
-18, garrafa2-notebook-fone, branco, garrafa2, noite-fora-de-casa
-19, chaves-guardachuva-carteira-cremedental, branco, cremedental, dia-fora-de-casa
-20, diario-joystick-controleremoto, branco, diario, noite-fora-de-casa
-21, diario-joystick-controleremoto, bege, controleremoto, dia-dentro-de-casa
-22, diario-joystick-controleremoto, branco, joystick, dia-fora-de-casa
-23, faca-colher-papeltoalha-livro, cinza, livro, dia-fora-de-casa
-24, quadrinho-oculos-celular, branco, quadrinho, noite-fora-de-casa
-25, garrafa2-notebook-fone, branco, fone, dia-fora-de-casa
-26, garrafa2-notebook-fone, marrom, notebook, noite-dentro-de-casa
-27, quadrinho-oculos-celular, bege, oculos, dia-dentro-de-casa
-28, quadrinho-oculos-celular, marrom, celular, noite-dentro-de-casa
-29, quadrinho-oculos-celular, branco, quadrinho, dia-fora-de-casa
-30, faca-colher-papeltoalha-livro, branco, livro, noite-fora-de-casa
-31, chaves-guardachuva-carteira-cremedental, marrom, noite-dentro-de-casa
-32, chaves-guardachuva-carteira-cremedental, cremedental, noite-fora-de-casa
-33, tenis-hidratante-repelente, bege, tenis, dia-dentro-de-casa
-34, tenis-hidratante-repelente, branco, hidratante, dia-fora-de-casa
-35, tenis-hidratante-repelente, branco, repelente, noite-fora-de-casa
-36, tenis-hidratante-repelente, marrom, tenis, noite-dentro-de-casa
+nome,objetos,fundo,classe,iluminacao
+1,bola-caderno-caneca,bege,bola,dia-dentro-de-casa
+2,diario-joystick-controleremoto,marrom,joystick,noite-dentro-de-casa
+3,caixadesom-tesoura-desodorante-garrafa1,branco,garrafa1,noite-fora-de-casa
+4,bola-caderno-caneca,cinza,caneca,dia-fora-de-casa
+5,bola-caderno-caneca,marrom,caneca,noite-dentro-de-casa
+6,bola-caderno-caneca,cinza,caderno,noite-fora-de-casa
+7,chaves-guardachuva-carteira-cremedental,bege,guardachuva,dia-dentro-de-casa
+8,faca-colher-papeltoalha-livro,marrom,livro,noite-dentro-de-casa
+9,prestobarba-fiodental-estojo,branco,estojo,noite-fora-de-casa
+10,caixadesom-tesoura-desodorante-garrafa1,bege,desodorante,dia-dentro-de-casa
+11,prestobarba-fiodental-estojo,bege,fiodental,dia-dentro-de-casa
+12,prestobarba-fiodental-estojo,branco,prestobarba,dia-fora-de-casa
+13,faca-colher-papeltoalha-livro,bege,colher,dia-dentro-de-casa
+14,prestobarba-fiodental-estojo,marrom,estojo,noite-dentro-de-casa
+15,caixadesom-tesoura-desodorante-garrafa1,branco,tesoura,dia-fora-de-casa
+16,caixadesom-tesoura-desodorante-garrafa1,marrom,garrafa1,noite-dentro-de-casa
+17,garrafa2-notebook-fone,branco,notebook,noite-dentro-de-casa
+18,garrafa2-notebook-fone,branco,garrafa2,noite-fora-de-casa
+19,chaves-guardachuva-carteira-cremedental,branco,cremedental,dia-fora-de-casa
+20,diario-joystick-controleremoto,branco,diario,noite-fora-de-casa
+21,diario-joystick-controleremoto,bege,controleremoto,dia-dentro-de-casa
+22,diario-joystick-controleremoto,branco,joystick,dia-fora-de-casa
+23,faca-colher-papeltoalha-livro,cinza, livro,dia-fora-de-casa
+24,quadrinho-oculos-celular,branco,quadrinho,noite-fora-de-casa
+25,garrafa2-notebook-fone,branco,fone,dia-fora-de-casa
+26,garrafa2-notebook-fone,marrom,notebook,noite-dentro-de-casa
+27,quadrinho-oculos-celular,bege,oculos,dia-dentro-de-casa
+28,quadrinho-oculos-celular,marrom,celular,noite-dentro-de-casa
+29,quadrinho-oculos-celular,branco,quadrinho,dia-fora-de-casa
+30,faca-colher-papeltoalha-livro,branco,livro,noite-fora-de-casa
+31,chaves-guardachuva-carteira-cremedental,marrom,carteira,noite-dentro-de-casa
+32,chaves-guardachuva-carteira-cremedental,branco,cremedental,noite-fora-de-casa
+33,tenis-hidratante-repelente,bege,tenis,dia-dentro-de-casa
+34,tenis-hidratante-repelente,branco,hidratante,dia-fora-de-casa
+35,tenis-hidratante-repelente,branco,repelente,noite-fora-de-casa
+36,tenis-hidratante-repelente,marrom,tenis,noite-dentro-de-casa
